@@ -1,8 +1,8 @@
 # tp-equation-diophantienne
 Programme Python pour résoudre une équation diophantienne avec l’algorithme d’Euclide étendu
 # Programme : Résolution d'une équation diophantienne a*x + b*y = c
-# Auteur : [Ton Nom]
-# Date : [Date d’aujourd’hui]
+# Auteur : [MOHAMMED-OUSSAMABOUTARA]
+# Date : [08/11/2025]
 # Objectif : Calculer les solutions d'une équation diophantienne à l'aide de l'algorithme d'Euclide étendu
 
 def euclide_etendu(a, b):
